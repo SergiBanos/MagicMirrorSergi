@@ -39,7 +39,7 @@ var config = {
 
 		{
 			module: "compliments",
-			position: "center"
+			position: "middle_center"
 		},
 		{
         module: 'MMM-Hello-Mirror',
